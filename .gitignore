@@ -4,3 +4,5 @@ target/
 *.class
 *.log
 .~lock.
+.gradle/
+build/
